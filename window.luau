@@ -1,0 +1,1 @@
+-- The manifest stylesheet is the plugin's complete behavior.

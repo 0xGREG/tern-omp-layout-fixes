@@ -1,0 +1,12 @@
+/* Tern's Reader, Spine, and Console skins cap and center OMP's main region. */
+.sf-main[data-surface="omp.session"] {
+	width: auto !important;
+	max-width: none !important;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+
+/* Keep the transcript tail visually separate from Tern's sticky composer dock. */
+.sf-main[data-surface="omp.session"] {
+	padding-bottom: 36px !important;
+}

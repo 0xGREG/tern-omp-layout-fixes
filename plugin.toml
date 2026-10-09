@@ -1,0 +1,7 @@
+schema = 1
+id = "omp-layout-fixes"
+name = "OMP Layout Fixes"
+version = "0.2.0"
+description = "Makes OMP transcripts full width and separates them from Tern's composer."
+window = "window.luau"
+styles = ["layout.css"]
