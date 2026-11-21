@@ -1,5 +1,7 @@
 # Tern OMP Layout Fixes
 
+> **Archived.** Superseded by [tern-look-fixes](https://github.com/0xGREG/tern-look-fixes), which includes this plugin's stylesheet unchanged plus more fixes. Don't run both.
+
 A small [Tern](https://stencil.so/tern) plugin that adjusts OMP's native surface layout:
 
 - Expands OMP transcripts from Tern's centered Reader, Spine, or Console measure to the available pane width.
